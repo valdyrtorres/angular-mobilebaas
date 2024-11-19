@@ -1,3 +1,10 @@
+ng add @angular/material@14
+
+ng g c components/home
+
+ng g c components/meeting-list
+
+---------------------------------------
 # AngularMobilebaas
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.

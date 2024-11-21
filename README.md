@@ -1,8 +1,11 @@
+AMBIENTE ESTOU USANDO NODE 16 e ANGULAR 14 (se não tiver certeza, aplique nvm use 16 e dê nvm list para ter certeza da versão do node usada)
 ng add @angular/material@14
 
 ng g c components/home
 
 ng g c components/meeting-list
+
+ng g c components/meeting-form
 
 ---------------------------------------
 # AngularMobilebaas
